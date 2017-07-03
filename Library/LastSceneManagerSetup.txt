@@ -1,0 +1,4 @@
+sceneSetups:
+- path: assets/_Scenes/pre-load_screen.unity
+  isLoaded: 1
+  isActive: 1
